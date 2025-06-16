@@ -1,0 +1,6 @@
+sudo chmod +x pratica_linux.sh
+
+sudo chmod 744 pratica_linux.sh
+
+sudo ./pratica_linux.sh
+
